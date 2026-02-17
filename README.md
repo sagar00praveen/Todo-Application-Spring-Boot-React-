@@ -3,7 +3,7 @@
 A full-stack Todo application built with **Spring Boot** (Backend) and **React + Vite** (Frontend).
 
 ![App Screenshot](screenshots/app-preview.png)
-*(Place your screenshot here named `app-preview.png`)*
+
 
 ## Features
 
