@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+target/
+dist/
+build/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.iml
+
+# Logs and specific files
+*.log
+backend_run.txt
+backend_build.txt
+maven/
+
+# OS
+.DS_Store
+Thumbs.db
